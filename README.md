@@ -2,7 +2,7 @@
 
 > Real-time weather at your location — beautifully simple.
 
-![Weather Channel Poster](poster.png)
+![Weather Channel Poster](posterWeather.png)
 
 ---
 
